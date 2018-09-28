@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec3939e-66d3-4f3f-91a3-7c5db3792b02" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SeptemberChallenge.html" afterPath="$PROJECT_DIR$/.idea/SeptemberChallenge.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SeptemberChallenge.iws" />
@@ -162,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538118625011</updated>
-      <workItem from="1538118626496" duration="1227000" />
+      <workItem from="1538118626496" duration="1241000" />
     </task>
     <task id="LOCAL-00001" summary="Challenge">
       <created>1538119771458</created>
@@ -171,11 +170,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538119771458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Challenge">
+      <created>1538119865679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538119865679</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1227000" />
+    <option name="totallyTimeSpent" value="1241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="966" height="1050" extended-state="0" />
